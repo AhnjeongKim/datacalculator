@@ -1,2 +1,2 @@
-# datacalculator
+# Data Calculator
 simple data calculator
